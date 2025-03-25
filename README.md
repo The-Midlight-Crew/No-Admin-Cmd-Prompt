@@ -1,1 +1,17 @@
-# No-Admin-Terminal
+# No-Admin-Cmd Prompt
+This Cmd Prompt does not require admin - and only one minor downside.
+
+This code is like 4 lines so really we should thank python for having the subprocess module already downloaded.
+
+
+
+# The downside
+sadly, I don't know how to display the directory or path cuz subprocess basically just opens a terminal and enters the code in that we inputted then closes after its done and returns with a status code.
+Plus also subproccess is a little broken with anything to do with directory or path when just using a PI - so make sure you use a file.
+
+# Tutorial
+firstly - downloading python
+THE LINK GOES HERE
+This version of python requires no admin - since it is portable and doesn't need to mess around with your files and whatnot.
+this depends on your school's IT - mine is very strict, basically all downloading is blocked - if yours isnt then you can just go to the link and download it straight up
+if your school is strict - hopefully this method works like it did for our computers. Firstly try and download it - once it fails copy the download link and paste in a new tab - that simple.
