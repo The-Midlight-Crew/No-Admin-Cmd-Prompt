@@ -1,4 +1,4 @@
-# No-Admin-Cmd Prompt
+# No-Admin-Cmd Prompt - in progress don't do anything yet check soon
 This Cmd Prompt does not require admin - and only one minor downside.
 
 This code is like 4 lines so really we should thank python for having the subprocess module already downloaded.
